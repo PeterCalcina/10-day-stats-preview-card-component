@@ -96,6 +96,7 @@ body {
 }
 
 .card .card__body .card__body-text {
+  width: 90%;
   font-size: 0.9em;
   color: var(--slightly-transparent-white);
 }
